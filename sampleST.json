@@ -1,0 +1,365 @@
+
+{
+  "601": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "601",
+    "lat": 36.180595,
+    "lon": -75.761779,
+    "name": "Currituck Sound, NC - ID: 601",
+    "sensor_array_type": [
+      "waterlevel"
+    ],
+    "variables": {}
+  },
+  "8651370": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "8651370",
+    "lat": 36.1833333,
+    "lon": -75.746667,
+    "name": "Duck, NC - ID: 8651370",
+    "sensor_array_type": [
+      "waterlevel"
+    ],
+    "variables": {}
+  },
+  "adop01": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "adop01",
+    "lat": 36.1863092,
+    "lon": -75.7504837,
+    "name": "2m AquaDopp",
+    "sensor_array_type": [
+      "waves",
+      "currents"
+    ],
+    "variables": {}
+  },
+  "adop02": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "adop02",
+    "lat": 36.1866956,
+    "lon": -75.748981,
+    "name": "3m AquaDopp",
+    "sensor_array_type": [
+      "waves",
+      "currents"
+    ],
+    "variables": {}
+  },
+  "awac01": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "awac01",
+    "lat": 36.186886,
+    "lon": -75.748227,
+    "name": "5m AWAC",
+    "sensor_array_type": [
+      "waves",
+      "currents"
+    ],
+    "variables": {}
+  },
+  "awac02": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "awac02",
+    "lat": 36.1873276,
+    "lon": -75.7465267,
+    "name": "6m AWAC",
+    "sensor_array_type": [
+      "waves",
+      "currents"
+    ],
+    "variables": {
+      "waveDp": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:00:06",
+        "deltadays": 0,
+        "description": "Wave direction is from true north (MET convention)",
+        "display_units": "\u00b0",
+        "long_name": "Peak Wave Direction",
+        "sensor_id": "awac02",
+        "sensor_type": "waves",
+        "short_name": "Wave Direction",
+        "standard_name": "sea_surface_wave_from_direction",
+        "units": "degree",
+        "value": "80.0"
+      },
+      "waveFp": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:00:06",
+        "deltadays": 0,
+        "description": "Peak Wave Period",
+        "display_units": "s",
+        "long_name": "Peak Wave Period",
+        "sensor_id": "awac02",
+        "sensor_type": "waves",
+        "short_name": "Wave Period",
+        "standard_name": "sea_surface_wave_period_at_variance_spectral_density_maximum",
+        "units": "s",
+        "value": "10.0"
+      },
+      "waveHs": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:00:06",
+        "deltadays": 0,
+        "display_units": "m",
+        "long_name": "Significant Wave Height",
+        "sensor_id": "awac02",
+        "sensor_type": "waves",
+        "short_name": "Wave Height",
+        "standard_name": "sea_surface_wave_significant_height",
+        "units": "m",
+        "value": "1.2945"
+      }
+    }
+  },
+  "awac03": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "awac03",
+    "lat": 36.188184,
+    "lon": -75.74323,
+    "name": "8m AWAC",
+    "sensor_array_type": [
+      "waves",
+      "currents"
+    ],
+    "variables": {}
+  },
+  "awac04": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "awac04",
+    "lat": 36.189244,
+    "lon": -75.739155,
+    "name": "11m AWAC",
+    "sensor_array_type": [
+      "waves",
+      "currents"
+    ],
+    "variables": {
+      "waveDp": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:00:02",
+        "deltadays": 0,
+        "description": "Wave direction is from true north (MET convention)",
+        "display_units": "\u00b0",
+        "long_name": "Peak Wave Direction",
+        "sensor_id": "awac04",
+        "sensor_type": "waves",
+        "short_name": "Wave Direction",
+        "standard_name": "sea_surface_wave_from_direction",
+        "units": "degree",
+        "value": "78.0"
+      },
+      "waveFp": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:00:02",
+        "deltadays": 0,
+        "description": "Peak Wave Period",
+        "display_units": "s",
+        "long_name": "Peak Wave Period",
+        "sensor_id": "awac04",
+        "sensor_type": "waves",
+        "short_name": "Wave Period",
+        "standard_name": "sea_surface_wave_period_at_variance_spectral_density_maximum",
+        "units": "s",
+        "value": "11.1111"
+      },
+      "waveHs": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:00:02",
+        "deltadays": 0,
+        "display_units": "m",
+        "long_name": "Significant Wave Height",
+        "sensor_id": "awac04",
+        "sensor_type": "waves",
+        "short_name": "Wave Height",
+        "standard_name": "sea_surface_wave_significant_height",
+        "units": "m",
+        "value": "1.2711"
+      }
+    }
+  },
+  "awac05": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "awac05",
+    "lat": 35.912333,
+    "lon": -75.58675,
+    "name": "Jennette's Pier 11m AWAC",
+    "sensor_array_type": [
+      "waves",
+      "currents"
+    ],
+    "variables": {}
+  },
+  "derived": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "derived",
+    "lat": 36.183685,
+    "lon": -75.7451573,
+    "name": "FRF Derived Wind",
+    "sensor_array_type": [
+      "wind"
+    ],
+    "variables": {}
+  },
+  "eop-ctd": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "eop-ctd",
+    "lat": 36.1836275,
+    "lon": -75.7453305,
+    "name": "Pier CTD",
+    "sensor_array_type": [
+      "ctd"
+    ],
+    "variables": {}
+  },
+  "eop-met": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "eop-met",
+    "lat": 36.18250833,
+    "lon": -75.75152778,
+    "name": "Weather Station",
+    "sensor_array_type": [
+      "weather"
+    ],
+    "variables": {}
+  },
+  "eop-secchi": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "eop-secchi",
+    "lat": 36.1836275,
+    "lon": -75.7453305,
+    "name": "Pier Secchi",
+    "sensor_array_type": [
+      "visibility"
+    ],
+    "variables": {}
+  },
+  "eop-temp": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "eop-temp",
+    "lat": 36.183723,
+    "lon": -75.745148,
+    "name": "Pier Temp Array",
+    "sensor_array_type": [
+      "temperature"
+    ],
+    "variables": {}
+  },
+  "waverider192": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "waverider192",
+    "lat": 35.750045,
+    "lon": -75.330008,
+    "name": "Oregon Inlet Buoy",
+    "sensor_array_type": [
+      "waves"
+    ],
+    "variables": {}
+  },
+  "waverider430": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "waverider430",
+    "lat": 36.2577,
+    "lon": -75.5913,
+    "name": "26m Waverider",
+    "sensor_array_type": [
+      "waves"
+    ],
+    "variables": {
+      "waveDp": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:26:59",
+        "deltadays": 0,
+        "description": "Wave direction is from true north (MET convention)",
+        "display_units": "\u00b0",
+        "long_name": "Peak Wave Direction at Peak Frequency",
+        "sensor_id": "waverider430",
+        "sensor_type": "waves",
+        "short_name": "Wave Direction",
+        "standard_name": "sea_surface_wave_from_direction",
+        "units": "degree",
+        "value": "94.0"
+      },
+      "waveFp": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:26:59",
+        "deltadays": 0,
+        "description": "Peak Wave Period",
+        "display_units": "s",
+        "long_name": "Peak Wave Period",
+        "sensor_id": "waverider430",
+        "sensor_type": "waves",
+        "short_name": "Wave Period",
+        "standard_name": "sea_surface_wave_period_at_variance_spectral_density_maximum",
+        "units": "s",
+        "value": "11.7647"
+      },
+      "waveHs": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:26:59",
+        "deltadays": 0,
+        "display_units": "m",
+        "long_name": "Significant Wave Height",
+        "sensor_id": "waverider430",
+        "sensor_type": "waves",
+        "short_name": "Wave Height",
+        "standard_name": "sea_surface_wave_significant_height",
+        "units": "m",
+        "value": "1.5495"
+      }
+    }
+  },
+  "waverider630": {
+    "date_time": "2015-10-29T17:17:00Z",
+    "id": "waverider630",
+    "lat": 36.200533,
+    "lon": -75.714267,
+    "name": "17m Waverider 2D",
+    "sensor_array_type": [
+      "waves"
+    ],
+    "variables": {
+      "waveDp": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:14:00",
+        "deltadays": 0,
+        "description": "Wave direction is from true north (MET convention)",
+        "display_units": "\u00b0",
+        "long_name": "Peak Wave Direction",
+        "sensor_id": "waverider630",
+        "sensor_type": "waves",
+        "short_name": "Wave Direction",
+        "standard_name": "sea_surface_wave_from_direction",
+        "units": "degree",
+        "value": "88.0"
+      },
+      "waveFp": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:14:00",
+        "deltadays": 0,
+        "description": "Peak Wave Period",
+        "display_units": "s",
+        "long_name": "Peak Wave Period",
+        "sensor_id": "waverider630",
+        "sensor_type": "waves",
+        "short_name": "Wave Period",
+        "standard_name": "sea_surface_wave_period_at_variance_spectral_density_maximum",
+        "units": "s",
+        "value": "9.8717"
+      },
+      "waveHs": {
+        "data_type": "oceanography",
+        "datadate": "2015-10-29T17:14:00",
+        "deltadays": 0,
+        "display_units": "m",
+        "long_name": "Significant Wave Height",
+        "sensor_id": "waverider630",
+        "sensor_type": "waves",
+        "short_name": "Wave Height",
+        "standard_name": "sea_surface_wave_significant_height",
+        "units": "m",
+        "value": "1.3838"
+      }
+    }
+  }
+}

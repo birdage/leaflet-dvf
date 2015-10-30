@@ -1,5 +1,13 @@
 # Leaflet Data Visualization Framework (DVF)
 
+## Radial markers
+
+Allows the user to create a directional radial marker for multiple parameters
+
+`cd /`
+`<simple http server>`
+`go in to /examples/html/markers.html`
+
 ## Overview
 
 The Leaflet DVF is an extension to the [Leaflet](http://leafletjs.com) JavaScript mapping library.
