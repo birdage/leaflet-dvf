@@ -4564,6 +4564,8 @@ L.RadialMeterMarker = L.ChartMarker.extend({
 		var angleDelta = maxDegrees / numSegments;
 		var displayOptions;
 		
+
+
 		// Iterate through the data values
 		for (var key in data) {
 			value = parseFloat(data[key]);
@@ -4604,6 +4606,7 @@ L.RadialMeterMarker = L.ChartMarker.extend({
 				for (var displayKey in displayOptions) {
 					options[displayKey] = displayOptions[displayKey].evaluate ? displayOptions[displayKey].evaluate(evalValue) : displayOptions[displayKey];
 				}
+
 				
 				bar = new L.RadialBarMarker(this._latlng, options);
 				
@@ -4646,7 +4649,9 @@ L.RadialMeterMarker = L.ChartMarker.extend({
 			}
 		}
 	}
-});;/*
+});;
+
+/*
  * Various modes in which location information can be encoded
  */
 L.LocationModes = {
